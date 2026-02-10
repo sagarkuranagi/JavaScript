@@ -12,5 +12,4 @@ for(let i= fruits.length -1; i>=0; i--){
 // for of loop 
 for(let ele of fruits){
     console.log(ele);
-
 }
